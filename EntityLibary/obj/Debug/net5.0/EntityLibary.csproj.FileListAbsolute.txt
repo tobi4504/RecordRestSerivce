@@ -1,0 +1,12 @@
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\bin\Debug\net5.0\EntityLibary.deps.json
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\bin\Debug\net5.0\EntityLibary.dll
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\bin\Debug\net5.0\ref\EntityLibary.dll
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\bin\Debug\net5.0\EntityLibary.pdb
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\obj\Debug\net5.0\EntityLibary.csproj.AssemblyReference.cache
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\obj\Debug\net5.0\EntityLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\obj\Debug\net5.0\EntityLibary.AssemblyInfoInputs.cache
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\obj\Debug\net5.0\EntityLibary.AssemblyInfo.cs
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\obj\Debug\net5.0\EntityLibary.csproj.CoreCompileInputs.cache
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\obj\Debug\net5.0\EntityLibary.dll
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\obj\Debug\net5.0\ref\EntityLibary.dll
+C:\Users\tobia\source\repos\EntityLibary\EntityLibary\obj\Debug\net5.0\EntityLibary.pdb
